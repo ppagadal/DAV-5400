@@ -1,0 +1,23 @@
+[
+    {
+        "Book Title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "Author": "Robert C. Martin, Dean Wampler",
+        "Publication Year": "2008",
+        "Publisher": "Pearson",
+        "Price":"28.99"
+    },
+    {
+        "Book Title": "Arduino Programming From Beginning to Advanced",
+        "Author": "Ali Mazidi, Shujen Chen, Eshragh Ghaemi",
+        "Publication Year": "2019",
+        "Publisher": "MicroDigitalEd",
+        "Price":"20.00"
+    },
+    {
+        "Book Title": "Programming Python: Powerful Object-Oriented Programming",
+        "Author": "Mark Lutz",
+        "Publication Year": "2011",
+        "Publisher": "O'Reilly Media",
+        "Price":"25.10"
+    }
+]
